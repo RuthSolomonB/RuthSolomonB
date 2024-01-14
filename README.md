@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java, HTML and Python
 - 💞️ I’m looking to collaborate on Java and C# projects.
 - 📫 How to reach me on linked in at: www.linkedin.com/in/ruthbefik
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 RuthSolomonB/RuthSolomonB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
