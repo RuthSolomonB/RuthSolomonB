@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ruth Solomon Befikadu
+-  Email: ruthsol.work@gmail.com
 - 👀 I’m interested in robotics, software development, computer vision 
 - 🌱 I’m currently learning Java, HTML and Python
 - 💞️ I’m looking to collaborate on Java and C# projects.
